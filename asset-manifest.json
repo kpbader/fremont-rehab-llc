@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5952caa.css",
+    "main.js": "/static/js/main.239f2867.js",
+    "static/js/787.3464bfd3.chunk.js": "/static/js/787.3464bfd3.chunk.js",
+    "static/media/bay-area-hills.mp4": "/static/media/bay-area-hills.b968c333e353e7dc54e4.mp4",
+    "static/media/string-lights-overlay.png": "/static/media/string-lights-overlay.bdbc2e6decd25df12f22.png",
+    "static/media/levan-badzgaradze-xoeljsx5CD4-unsplash.jpg": "/static/media/levan-badzgaradze-xoeljsx5CD4-unsplash.2db73a5fab3fca339cfc.jpg",
+    "static/media/dave-herring-4tiTrEKRmnM-unsplash.jpg": "/static/media/dave-herring-4tiTrEKRmnM-unsplash.85c5b26cb7185602e2af.jpg",
+    "static/media/ronan-furuta-56ryp9l_jC0-unsplash.jpg": "/static/media/ronan-furuta-56ryp9l_jC0-unsplash.3af19d2e6fd73245562e.jpg",
+    "static/media/matt-jones-dgLp5y_Jhuw-unsplash.jpg": "/static/media/matt-jones-dgLp5y_Jhuw-unsplash.5be79db1482c391e2fef.jpg",
+    "static/media/patrick-hendry-jpUwTGQf43w-unsplash.jpg": "/static/media/patrick-hendry-jpUwTGQf43w-unsplash.4d984598df4f82ae6ea1.jpg",
+    "static/media/adrian-trinkaus-NTApDysDC0s-unsplash.jpg": "/static/media/adrian-trinkaus-NTApDysDC0s-unsplash.87d08aa8a532d231875b.jpg",
+    "static/media/marisol-benitez-OglDSoHjZw4-unsplash.jpg": "/static/media/marisol-benitez-OglDSoHjZw4-unsplash.c0035e8edca1775291b1.jpg",
+    "static/media/bluecross-blueshield-simple-modern-therapy-logo.png": "/static/media/bluecross-blueshield-simple-modern-therapy-logo.56a2b29ee5649d0f6cee.png",
+    "static/media/Cigna_logo.svg.png": "/static/media/Cigna_logo.svg.ff3f6e8fda9f8d5606b2.png",
+    "static/media/beacon-logo.png": "/static/media/beacon-logo.7c0bf886c3f818483418.png",
+    "static/media/molina.png": "/static/media/molina.777ed7b5b2160bfc53d0.png",
+    "static/media/United-Healthcare-Logo.png": "/static/media/United-Healthcare-Logo.9dce2462c02ddc36d849.png",
+    "static/media/Anthem-Inc-logo.png": "/static/media/Anthem-Inc-logo.97c429ae10389f929f91.png",
+    "index.html": "/index.html",
+    "main.a5952caa.css.map": "/static/css/main.a5952caa.css.map",
+    "main.239f2867.js.map": "/static/js/main.239f2867.js.map",
+    "787.3464bfd3.chunk.js.map": "/static/js/787.3464bfd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5952caa.css",
+    "static/js/main.239f2867.js"
+  ]
+}
