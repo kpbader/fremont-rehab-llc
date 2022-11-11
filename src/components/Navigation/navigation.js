@@ -11,7 +11,7 @@ function Navigation () {
         <Nav id="main-nav-links">
             <Nav.Item>
                 <Nav.Link>
-                    <Link to="/fremont-rehab-llc" className="header-nav-tab">Home</Link>
+                    <Link to="/" className="header-nav-tab">Home</Link>
                 </Nav.Link>
             </Nav.Item>
             <Nav.Item>
