@@ -9,7 +9,10 @@
 
   #nav-bar {
     flex-wrap: wrap;
-    padding-bottom: 25px;
+  }
+
+  #nav-bar header {
+    font-size: 30px !important;
   }
 
   #nav-bar img {
@@ -20,6 +23,11 @@
   #main-nav-links {
     flex-wrap: wrap;
     justify-content: center;
+    display: none !important;
+  }
+
+  #hamburger-btn {
+   display:contents !important;
   }
 
   /* HOME PAGE */
