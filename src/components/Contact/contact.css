@@ -1,17 +1,17 @@
 #contact-page {
-    background-image: url('../../assets/images/matt-jones-dgLp5y_Jhuw-unsplash.jpg');
+    background-image: url('../../assets/images/AdobeStock_326765702.jpeg');
     background-position: center bottom;
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
   }
   
-  #contact-page-header {
+  /* #contact-page-header {
       color: white;
       font-size: 50px;
       display: flex;
       padding: 50px;
       margin: 0px;
-  }
+  } */
   
   #contact-container {
     display: flex;
@@ -106,6 +106,8 @@
       transition: .5s ease;
       cursor: pointer;
   }
+
+  
   
   .contact-info-line {
       display: flex;

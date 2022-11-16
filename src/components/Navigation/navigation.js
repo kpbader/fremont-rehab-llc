@@ -4,6 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import React, { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Offcanvas from 'react-bootstrap/Offcanvas';
+import logo from "../../assets/images/fremont-logo-white-01.png";
 
 function Navigation () {
 
@@ -15,8 +16,8 @@ const handleShow = () => setShow(true);
 
     return (
         <section id="nav-bar">
-        {/* <img /> */}
-        <header>Fremont Rehab</header> 
+        <img src={logo} alt="logo"/>
+        {/* <header>Fremont Rehab</header>  */}
         <Nav id="main-nav-links">
             <Nav.Item>
                 <Nav.Link>

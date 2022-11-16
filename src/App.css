@@ -11,13 +11,9 @@
     flex-wrap: wrap;
   }
 
-  #nav-bar header {
-    font-size: 30px !important;
-  }
-
   #nav-bar img {
-    width: 70% !important;
-    height: 70% !important;
+    width: 50% !important;
+    height: 50% !important;
   }
 
   #main-nav-links {
@@ -41,9 +37,8 @@
     text-align: center;
   }
 
-  #our-services-header {
-    width: 75%;
-    text-align: center;
+  #our-services-header h3{
+    font-size: 20px !important;
   }
 
   #our-services-cards {
