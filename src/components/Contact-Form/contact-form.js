@@ -7,7 +7,7 @@ function ContactForm() {
     const form = useRef();
     const [contactForm, setContactForm] = useState({ name: '', email: '', message: '' });
     const { name, email, message } = contactForm;
-    const [errorMessage, setErrorMessage] = useState('');
+    // const [errorMessage, setErrorMessage] = useState('');
 
     return (
 
