@@ -62,12 +62,12 @@ const handleShow = () => setShow(true);
                     <section id="nav-tabs">
                         <ul className="tabpanel">
 
-                            <Link to="/fremont-rehab-llc" className="header-nav-tab">Home</Link>
-                            <Link to="/treatment" className="header-nav-tab">Treatment</Link>
-                            <Link to="/mission" className="header-nav-tab">Mission</Link>
-                            <Link to="/about" className="header-nav-tab">About</Link>
-                            <Link to="/insurance" className="header-nav-tab">Insurance</Link>
-                            <Link to="/contact" className="header-nav-tab">Contact</Link>
+                            <Link to="/fremont-rehab-llc" className="header-nav-tab" onClick={handleClose}>Home</Link>
+                            <Link to="/treatment" className="header-nav-tab" onClick={handleClose}>Treatment</Link>
+                            <Link to="/mission" className="header-nav-tab" onClick={handleClose}>Mission</Link>
+                            <Link to="/about" className="header-nav-tab" onClick={handleClose}>About</Link>
+                            <Link to="/insurance" className="header-nav-tab" onClick={handleClose}>Insurance</Link>
+                            <Link to="/contact" className="header-nav-tab" onClick={handleClose}>Contact</Link>
 
                         </ul>
                     </section>
