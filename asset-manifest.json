@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fremont-rehab-llc/static/css/main.4cd9b65a.css",
-    "main.js": "/fremont-rehab-llc/static/js/main.67511b09.js",
+    "main.js": "/fremont-rehab-llc/static/js/main.7cb2bfe3.js",
     "static/js/787.3464bfd3.chunk.js": "/fremont-rehab-llc/static/js/787.3464bfd3.chunk.js",
     "static/media/bay-area-hills.mp4": "/fremont-rehab-llc/static/media/bay-area-hills.b968c333e353e7dc54e4.mp4",
     "static/media/AdobeStock_196237340.jpeg": "/fremont-rehab-llc/static/media/AdobeStock_196237340.d4438b6c15104e3ea5f1.jpeg",
@@ -27,11 +27,11 @@
     "static/media/Anthem-Inc-logo.png": "/fremont-rehab-llc/static/media/Anthem-Inc-logo.97c429ae10389f929f91.png",
     "index.html": "/fremont-rehab-llc/index.html",
     "main.4cd9b65a.css.map": "/fremont-rehab-llc/static/css/main.4cd9b65a.css.map",
-    "main.67511b09.js.map": "/fremont-rehab-llc/static/js/main.67511b09.js.map",
+    "main.7cb2bfe3.js.map": "/fremont-rehab-llc/static/js/main.7cb2bfe3.js.map",
     "787.3464bfd3.chunk.js.map": "/fremont-rehab-llc/static/js/787.3464bfd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cd9b65a.css",
-    "static/js/main.67511b09.js"
+    "static/js/main.7cb2bfe3.js"
   ]
 }
