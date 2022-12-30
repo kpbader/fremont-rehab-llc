@@ -1,11 +1,7 @@
 import './iop.css';
 import Fade from 'react-reveal/Fade';
-// import crescentMoon from '../../assets/images/gavin-spear-unsplash.jpg';
-// import coastalSun from '../../assets/images/coastal-sunset-1.jpeg';
-// import desertRocks from '../../assets/images/alex-kramarevsky-unsplash.jpg';
-import redwoods from '../../assets/images/dave-herring-4tiTrEKRmnM-unsplash.jpg';
 import flowerField from '../../assets/images/levan-badzgaradze-xoeljsx5CD4-unsplash.jpg';
-// import sunFlowers from '../../assets/images/marisol-benitez-OglDSoHjZw4-unsplash.jpg';
+import sunHorizon from '../../assets/images/AdobeStock_196237340.jpeg';
 import aliceT from "../../assets/images/alice-triquet-HeEJU3nrg_0-unsplash.jpg";
 import BottomContact from '../Bottom-Contact/bottom-contact';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
@@ -32,7 +28,7 @@ function IOP() {
             </div>
             <div id="iop-two">
                 <Fade left>
-                    <LazyLoadImage src={redwoods} alt="by Gavin Spears" />
+                    <LazyLoadImage src={sunHorizon} alt="by Gavin Spears" />
                 </Fade>
                 <Fade right>
                     <div id="iop-two-text">

@@ -1,8 +1,7 @@
 import './php.css';
 import Fade from 'react-reveal/Fade';
-import redwoods from '../../assets/images/dave-herring-4tiTrEKRmnM-unsplash.jpg';
 import flowerField from '../../assets/images/levan-badzgaradze-xoeljsx5CD4-unsplash.jpg';
-// import sunFlowers from '../../assets/images/marisol-benitez-OglDSoHjZw4-unsplash.jpg';
+import gSpear from '../../assets/images/gavin-spear-wlXN8kRyD7M-unsplash.jpg';
 import aliceT from "../../assets/images/alice-triquet-HeEJU3nrg_0-unsplash.jpg";
 import BottomContact from '../Bottom-Contact/bottom-contact';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
@@ -29,7 +28,7 @@ function PHP() {
             </div>
             <div id="php-two">
                 <Fade left>
-                    <LazyLoadImage src={redwoods} alt="by Gavin Spears" />
+                    <LazyLoadImage src={gSpear} alt="by Gavin Spears" />
                 </Fade>
                 <Fade right>
                     <div id="php-two-text">

@@ -54,12 +54,12 @@ function OP() {
                     </div>
                 </Fade>
                 <Fade right>
-                    <LazyLoadImage src={flowerField} alt="by Gavin Spears" />
+                    <LazyLoadImage src={sunFlowers} alt="by Gavin Spears" />
                 </Fade>
             </div>
             <div id="op-four">
                 <Fade left>
-                    <LazyLoadImage src={sunFlowers} alt="Alex Kramarevsky" />
+                    <LazyLoadImage src={flowerField} alt="Alex Kramarevsky" />
                 </Fade>
                 <Fade right>
                     <div id="op-four-text">
