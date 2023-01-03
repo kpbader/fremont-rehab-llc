@@ -64,7 +64,7 @@ function PHP() {
                 <Fade right>
                     <div id="php-four-text">
                         <h2>Learn about our other programs</h2>
-                        <p>At Beach Street Rehab, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
+                        <p>At Fremont Rehab, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
                         <li>
                             <Link to="/iop" onClick={scrollToTop}>Intensive Outpatient Program</Link>
                         </li>

@@ -35,7 +35,7 @@
     justify-content: space-evenly;
     align-items: center;
     padding: 75px;
-    background-color: rgb(90, 178, 250);
+    background-color: rgb(77, 26, 43);
 }
 
 #iop-two-text {
@@ -73,7 +73,7 @@
 #iop-three-text {
     width: 30%;
     padding: 50px;
-    color: rgb(90, 178, 250);
+    color: rgb(77, 26, 43);
 }
 
 #iop-three-text h2 {
@@ -100,7 +100,7 @@
     justify-content: space-evenly;
     align-items: center;
     padding: 75px;
-    background-color: rgb(90, 178, 250);
+    background-color: rgb(77, 26, 43);
 }
 
 #iop-four img {

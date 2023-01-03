@@ -26,7 +26,7 @@ function OP() {
                 <Fade up>
                     <h2>Outpatient Program (OP)</h2>
                     <p>The least intensive program we provide, the outpatient program does not require overnight stays at our facilities. And although there is less time required for therapy sessions per week, we instill a high level of accountability for our patients in order for them to succeed in their journey to sobriety.</p>
-                    <p>At Beach Street Rehab, we recognize that overcoming addiction on your own may not be possible. Fortunately our treatment programs give you the path to healing/recovery. Through our outpatient program, we give you the tools to manage your addiction in the most healthy way possible. To learn more, reach out to us today. </p>
+                    <p>At Fremont Rehab, we recognize that overcoming addiction on your own may not be possible. Fortunately our treatment programs give you the path to healing/recovery. Through our outpatient program, we give you the tools to manage your addiction in the most healthy way possible. To learn more, reach out to us today. </p>
                 </Fade>
             </div>
             <div id="op-two">
@@ -64,7 +64,7 @@ function OP() {
                 <Fade right>
                     <div id="op-four-text">
                         <h2>Learn about our other programs</h2>
-                        <p>At Beach Street Rehab, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
+                        <p>At Fremont Rehab, we provide several other avenues of addiction treatment. In addition to our partial hospitalization program, we offer:</p>
                         <li>
                             <Link to="/php" onClick={scrollToTop}>Partial Hospitalization Program</Link>
                         </li>

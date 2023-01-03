@@ -170,6 +170,9 @@
   }
 
   /* ABOUT */
+  #about-top p {
+    width: 100%;
+}
 
   /* INSURANCE */
 
