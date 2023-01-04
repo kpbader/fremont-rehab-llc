@@ -1,5 +1,5 @@
 #mission-top {
-    background-image: url("../../assets/images/adrian-trinkaus-NTApDysDC0s-unsplash.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../../assets/images/adrian-trinkaus-NTApDysDC0s-unsplash.jpg");
     background-position: center;
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
